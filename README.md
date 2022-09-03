@@ -1,4 +1,4 @@
-# PLEASE CONTRIBUTE TO BHASHAX DOCUMENTATION
+# NEED HELP FOR BHASHAX DOCUMENTATION
 - 👋 Hi, I’m @krishyadav007
 - 👀 I’m interested in Everthing
 - 🌱 I’m currently learning CS
